@@ -19,6 +19,4 @@ void USART2_IRQHandler(void)
 			
 	  USART_ClearITPendingBit(USART2, USART_IT_RXNE);						//清除标志Çå³ý±êÖ¾
 }	
-————————————————
-版权声明：本文为CSDN博主「qq_一串随机码」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/qq_40329772/article/details/102701535
+
