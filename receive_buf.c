@@ -29,6 +29,4 @@ void ESP_Rxbuf_Init(void)
 	
 	  ESP_RX_STATE = 0;          //ÔÊÐí½ÓÊÕÊý¾Ý
 }
-————————————————
-版权声明：本文为CSDN博主「qq_一串随机码」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/qq_40329772/article/details/102701535
+
